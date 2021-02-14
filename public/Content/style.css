@@ -296,6 +296,10 @@ input[type=text], select, textarea {
   #project h3{
     padding-top:10px;
   }
+
+  #project h2{
+    color: var(--clr-light);
+  }
   
   h1 {
     font-size: 50px;
